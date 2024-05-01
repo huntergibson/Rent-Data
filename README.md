@@ -7,7 +7,8 @@ In my project, I conducted a thorough exploratory analysis to uncover insights i
 
 ---
 
-![image](https://github.com/huntergibson/Rent-data/assets/114520043/676b4e7f-82ae-49b8-b8a1-1ffb1b45d413)
+![image](https://github.com/huntergibson/Rent-Data/assets/114520043/34a00533-ed73-4e79-b7b7-073f2f28883d)
+
 
 
 
